@@ -1,0 +1,17 @@
+jupyter
+pandas
+tensorflow
+matplotlib
+scipy
+scikit-learn
+pydotplus
+pydot
+graphviz
+pydot-ng
+imageio
+nltk
+seaborn
+tensorflow-probability
+prompt-toolkit
+tabulate
+pyspark
