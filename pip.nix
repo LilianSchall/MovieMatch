@@ -6,6 +6,7 @@
     python3Packages.pip
     python3Packages.virtualenv
     stdenv.cc
+    gnumake
   ];
 
   shellHook = ''
